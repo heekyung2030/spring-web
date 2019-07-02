@@ -11,4 +11,8 @@ public class SampleController {
 	public String sample() {
 		return "sample/main";
 	}
+	public String bugfix() {
+		return "sample/main";
+	}
+	
 }
